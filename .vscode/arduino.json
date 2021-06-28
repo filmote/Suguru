@@ -1,0 +1,6 @@
+{
+    "sketch": "Suguru.ino",
+    "board": "arduboy-homemade:avr:arduboy-homemade",
+    "port": "/dev/cu.usbmodem14601",
+    "output": "../build"
+}
